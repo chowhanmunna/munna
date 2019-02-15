@@ -1,0 +1,47 @@
+{
+  "basic" :{
+    "image": "pb.jpg",
+    "name": "Munna",
+    "email": "chowhanmunna16@gmail.com",
+    "Number":"8074735607",
+    "Address":"meher complex,samarlakot"
+  },
+  "career":{
+    "info":"its good to be bad"
+  },
+  "education":[
+  {
+    "institute":"pragati",
+    "degree":"btech",
+    "passout":"2021"
+  },
+  {
+    "institute":"ksn",
+    "degree":"inter",
+    "passout":"2021"
+  },
+  {
+    "institute":"vivekananda school",
+    "degree":"ssc",
+    "passout":"2015"
+  }
+],
+"skills":[
+  {
+    "info":"languages",
+    "details":["c","c++","java","python"]
+  },
+  {
+    "info":"operating systems",
+    "destails":["windows","ios","android","ubuntu"]
+  },
+  {
+"info":"databases",
+"details":["oracle","mysql","tinydb"]
+},
+{
+"info":"acheivements",
+"details":["internships","nptel","hydspin","frontend"]
+}
+]
+}
